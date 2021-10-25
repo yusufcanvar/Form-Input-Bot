@@ -8,7 +8,7 @@ function BotOpen() {
         */
 
     //document.getElementById('tc').value = '324234'
-    document.getElementById('screen').contentWindow.document.getElementById('tc').value = 'x'
+//    document.getElementById('screen').contentWindow.document.getElementById('tc').value = 'x'
 
     var iframe = document.getElementById("screen");
     var elmnt = iframe.contentWindow.document.getElementsById('tc');
