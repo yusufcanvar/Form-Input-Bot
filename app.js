@@ -8,9 +8,9 @@ function BotOpen() {
         */
 
     //document.getElementById('tc').value = '324234'
-//    document.getElementById('screen').contentWindow.document.getElementById('tc').value = 'x'
-
+    document.getElementById('screen').contentWindow.document.getElementById('firstName').value = 'Hüsnüüüü';
+/*
     var iframe = document.getElementById("screen");
     var elmnt = iframe.contentWindow.document.getElementsById('tc');
-    elmnt.style.display = "none";
+    elmnt.style.display = "none"; */
 }
